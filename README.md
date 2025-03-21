@@ -1,5 +1,5 @@
 # Getting Started
-A small project to demo how to deploy springboot application onto AWS EKS.
+A small project to demo how to deploy springboot application onto AWS EKS, based on the article: https://medium.com/@javatechie/deploying-a-spring-boot-application-on-aws-eks-fdd7d075f034
 
 ### Prerequisite
 1. AWS account
