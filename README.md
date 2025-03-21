@@ -11,7 +11,7 @@ $ Install-Module -Name AWS.Tools.Installer -Force
 $ Install-AWSToolsModule AWS.Tools.ECR -CleanUp
 ```
 
-###
+### Steps
 1. Create a repository in AWS ECR named springboot-eks
 
 2. Login to your AWS ECR (replace the last portion accordingly based on your ECR URI, you can check it via your ECR repository 'View push commands')
